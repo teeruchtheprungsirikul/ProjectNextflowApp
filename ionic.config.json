@@ -1,0 +1,7 @@
+{
+  "name": "NextflowApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
